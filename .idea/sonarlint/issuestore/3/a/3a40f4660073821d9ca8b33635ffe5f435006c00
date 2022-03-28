@@ -1,0 +1,8 @@
+
+Q	java:S125"<This block of commented-out lines of code should be removed.(Ü»°
+
+java:S1128"fRemove this unused import 'co.com.choucair.certification.proyectobase.userinterface.SearchCoursePage'.(°˜å›øÿÿÿÿ
+a
+java:S1128"FRemove this unused import 'net.serenitybdd.screenplay.questions.Text'.(ùŠ¨ÿÿÿÿÿ
+R
+java:S1128"7Remove this unused import 'net.serenitybdd.screenplay'.(Ù³Ò¡úÿÿÿÿ
